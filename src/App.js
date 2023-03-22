@@ -9,9 +9,9 @@ function App() {
     <div className="App">
       
         <HomeComponent/>
-        <ButtonComponent/>
+        
         <div className="col-4">
-
+        <ButtonComponent/>
         </div>
         <div className="col-8">
         <CardsComponent/>
